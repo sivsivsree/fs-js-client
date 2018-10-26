@@ -1,0 +1,23 @@
+{
+  "name": "fs-js-client",
+  "version": "1.0.3",
+  "description": "FileService File Stream API",
+  "main": "FileService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siv S",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "fs-extra": "^7.0.0",
+    "split-file": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivsivsree/file-service.git"
+  },
+  "keywords": [
+    "fs-js-client","sivsivsree"
+  ]
+}
